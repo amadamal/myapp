@@ -11,7 +11,7 @@
     <td>Enter the temperature to convert:</td>
     <td><input type="text" name="temp" id="temp" size="10"></td>
 </tr>
-<!-- test ajay -->
+<!-- test ajay removed -->
 <tr>
     <td>Convert to:</td>
     <td><select name="scale" id="scale" size="1">
